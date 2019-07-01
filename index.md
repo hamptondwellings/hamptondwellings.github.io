@@ -5,4 +5,4 @@
 layout: home
 ---
 
-New site coming soon. See contact details below for all sales & lettings' enquiries.
+Coming soon! See contact details below for all sales & lettings' enquiries.
